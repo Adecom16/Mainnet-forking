@@ -1,13 +1,7 @@
-# Sample Hardhat Project
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+## Test Image
 
-Try running some of the following tasks:
+The following image shows the transaction hash after deploying the contract:
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.ts
-```
+![Transaction Hash](proof.png)
+
